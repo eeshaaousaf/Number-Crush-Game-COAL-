@@ -52,18 +52,18 @@ The main objectives of this project are:
 
 #  Game Features
 
- Three dynamic difficulty levels  
- Colored console game board using Irvine32  
- Match-3 row and column combo detection  
- Bomb explosion mechanics  
- Blocked cells in advanced levels  
- Random board generation  
- Valid move checking  
- Automatic move reversal if no combo occurs  
- Real-time score calculation  
- Player name input  
- File handling for record storage  
- Highest score tracking  
+ - Three dynamic difficulty levels  
+ - Colored console game board using Irvine32  
+ - Match-3 row and column combo detection  
+ - Bomb explosion mechanics  
+ - Blocked cells in advanced levels  
+ - Random board generation  
+ - Valid move checking  
+ - Automatic move reversal if no combo occurs  
+ - Real-time score calculation  
+ - Player name input  
+ - File handling for record storage  
+ - Highest score tracking  
 
 ---
 
@@ -264,14 +264,11 @@ Number-Crush-Game/
 git clone https://github.com/your-username/Number-Crush-Game.git
 ```
 
-3. Open the project in Visual Studio
-4. Build and run the `.asm` file
-
 ---
 
 #  License
 
-This project is developed for academic and educational purposes.
+This project is developed for educational purposes.
 
 ---
 
